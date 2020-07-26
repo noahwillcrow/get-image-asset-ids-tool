@@ -1,0 +1,19 @@
+{
+  "name": "get-image-asset-ids-tool",
+  "version": "1.0.0",
+  "description": "Decal IDs are annoying and mostly useless. Let's get the underlying image asset ID easily - and preferably with an interface to just do a list at a time!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahwillcrow/get-image-asset-ids-tool.git"
+  },
+  "author": "Noah Crowley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noahwillcrow/get-image-asset-ids-tool/issues"
+  },
+  "homepage": "https://github.com/noahwillcrow/get-image-asset-ids-tool#readme"
+}
